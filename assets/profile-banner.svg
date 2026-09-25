@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Kamal Maurya</title>
+  <desc id="desc">Building practical automation tools, dashboards, and browser extensions.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1831"/><stop offset="1" stop-color="#162e57"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#6d92ff"/><stop offset="1" stop-color="#52d6c0"/></linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#263f70"/><stop offset="1" stop-color="#172c50"/></linearGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#9bb8e8" opacity=".12"/></pattern>
+    <filter id="glow"><feGaussianBlur stdDeviation="46"/></filter>
+  </defs>
+  <rect width="1200" height="340" rx="20" fill="url(#bg)"/>
+  <rect width="1200" height="340" rx="20" fill="url(#dots)"/>
+  <circle cx="1000" cy="20" r="155" fill="#3766c8" opacity=".27" filter="url(#glow)"/>
+  <circle cx="748" cy="330" r="130" fill="#20b79e" opacity=".12" filter="url(#glow)"/>
+  <rect x="53" y="47" width="154" height="29" rx="14.5" fill="#263c67" stroke="#5374ad" stroke-opacity=".55"/>
+  <circle cx="69" cy="61.5" r="4" fill="#65dec2"/>
+  <text x="83" y="66" fill="#c5d7f4" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="1.1">HELLO, I'M KAMAL</text>
+  <text x="53" y="153" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="66" font-weight="700" letter-spacing="-2">Kamal Maurya</text>
+  <rect x="54" y="176" width="426" height="5" rx="2.5" fill="url(#accent)"/>
+  <text x="54" y="221" fill="#e0eaff" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400">Building useful things for real work.</text>
+  <text x="54" y="255" fill="#9db4d9" font-family="Arial, Helvetica, sans-serif" font-size="16">Automation  /  Data dashboards  /  Browser tools</text>
+  <rect x="54" y="282" width="154" height="33" rx="9" fill="#5379ed"/>
+  <text x="76" y="304" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">kamalmaurya.com ↗</text>
+  <g transform="translate(733 56) rotate(5 195 120)">
+    <rect x="0" y="0" width="395" height="238" rx="17" fill="#09172d" opacity=".55"/>
+    <rect x="7" y="7" width="381" height="224" rx="14" fill="url(#panel)" stroke="#688bd1" stroke-opacity=".36"/>
+    <rect x="7" y="7" width="381" height="37" rx="14" fill="#304b7a"/>
+    <rect x="7" y="31" width="381" height="13" fill="#304b7a"/>
+    <circle cx="30" cy="25" r="4" fill="#ff8291"/><circle cx="46" cy="25" r="4" fill="#ffd778"/><circle cx="62" cy="25" r="4" fill="#6be0c5"/>
+    <rect x="27" y="64" width="97" height="57" rx="9" fill="#365585"/><rect x="140" y="64" width="97" height="57" rx="9" fill="#365585"/><rect x="253" y="64" width="110" height="57" rx="9" fill="#365585"/>
+    <text x="43" y="86" fill="#a7c0e6" font-family="Arial, Helvetica, sans-serif" font-size="9">AUTOMATE</text><text x="43" y="107" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">01</text>
+    <text x="156" y="86" fill="#a7c0e6" font-family="Arial, Helvetica, sans-serif" font-size="9">ANALYZE</text><text x="156" y="107" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">02</text>
+    <text x="269" y="86" fill="#a7c0e6" font-family="Arial, Helvetica, sans-serif" font-size="9">IMPROVE</text><text x="269" y="107" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">03</text>
+    <rect x="27" y="139" width="211" height="70" rx="9" fill="#1c345b"/><rect x="255" y="139" width="108" height="70" rx="9" fill="#1c345b"/>
+    <path d="M43 187 L72 177 L99 183 L127 160 L152 167 L180 151 L221 158" fill="none" stroke="#6cdac3" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M43 187 L72 177 L99 183 L127 160 L152 167 L180 151 L221 158 L221 198 L43 198Z" fill="#6cdac3" opacity=".12"/>
+    <rect x="272" y="173" width="11" height="22" rx="3" fill="#6d92ff"/><rect x="290" y="158" width="11" height="37" rx="3" fill="#6d92ff"/><rect x="308" y="169" width="11" height="26" rx="3" fill="#6d92ff"/><rect x="326" y="149" width="11" height="46" rx="3" fill="#6cdac3"/>
+  </g>
+</svg>
